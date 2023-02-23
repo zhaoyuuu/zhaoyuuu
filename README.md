@@ -6,13 +6,13 @@
 
 ## About Me👇
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoyuuu&layout=compact&theme=prussian)
-![zhaoyuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaoyuuu&theme=prussian&show_icons=true&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoyuuu&layout=compact&theme=buefy)
+![zhaoyuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaoyuuu&theme=buefy&show_icons=true&hide=contribs)
 
 ## Pins🙌
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaoyuuu&repo=violet-design&theme=prussian)](https://github.com/zhaoyuuu/violet-design)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaoyuuu&repo=blog&theme=prussian)](https://github.com/zhaoyuuu/blog)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaoyuuu&repo=vue-element-admin&theme=prussian)](https://github.com/zhaoyuuu/vue-element-admin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaoyuuu&repo=violet-design&theme=buefy)](https://github.com/zhaoyuuu/violet-design)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaoyuuu&repo=blog&theme=buefy)](https://github.com/zhaoyuuu/blog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaoyuuu&repo=vue-element-admin&theme=buefy)](https://github.com/zhaoyuuu/vue-element-admin)
 
 
 <!---
