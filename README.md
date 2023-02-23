@@ -4,7 +4,7 @@
 - 🎯 I’m currently trying to lay a solid foundation
 - 📧 contact me: 13387281442@163.com
 
-## Roughly Intro👇
+## Rough Outline👇
 
 ![zhaoyuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaoyuuu&theme=buefy&show_icons=true&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoyuuu&layout=compact&theme=buefy)
