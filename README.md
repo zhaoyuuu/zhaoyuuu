@@ -4,15 +4,15 @@
 - 🎯 I’m currently trying to lay a solid foundation
 - 📧 contact me: 13387281442@163.com
 
-## About Me👇
+## Roughly Intro👇
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoyuuu&layout=compact&theme=buefy)
 ![zhaoyuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaoyuuu&theme=buefy&show_icons=true&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoyuuu&layout=compact&theme=buefy)
 
-## Pins🙌
+<!-- ## Pins🙌
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaoyuuu&repo=violet-design&theme=buefy)](https://github.com/zhaoyuuu/violet-design)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaoyuuu&repo=blog&theme=buefy)](https://github.com/zhaoyuuu/blog)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaoyuuu&repo=vue-element-admin&theme=buefy)](https://github.com/zhaoyuuu/vue-element-admin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhaoyuuu&repo=vue-element-admin&theme=buefy)](https://github.com/zhaoyuuu/vue-element-admin) -->
 
 
 <!---
