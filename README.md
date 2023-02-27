@@ -1,6 +1,6 @@
 # Hi, I’m @zhaoyuuu👋
 - 🎈 I’m interested in front-end
-- ✨ I'm a student in HUST(WuHan)
+- ✨ I'm a student in HUST
 - 🎯 I’m currently trying to lay a solid foundation
 - 📧 contact me: 13387281442@163.com
 
