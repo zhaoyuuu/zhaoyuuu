@@ -1,7 +1,7 @@
 # Hi, I’m @zhaoyuuu👋
 - 🎈 I’m interested in front-end
 - ✨ I'm a student in HUST
-- 🎯 I’m currently trying to lay a solid foundation
+- 🎯 I’m currently trying to do something interesting
 - 📧 contact me: 13387281442@163.com
 
 ## Rough Outline👇
